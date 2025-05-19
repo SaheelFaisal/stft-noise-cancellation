@@ -96,6 +96,12 @@ The cleaned audio will be saved as `filtered_speech.wav` in the same directory.
 
 ---
 
+## 🎧 Sample Audio
+
+Demo `.wav` files were used during testing but are not included in this repository for privacy reasons. You can test the system with your own recordings by replacing `my_audio1.wav` in the root directory.
+
+---
+
 ## 🔗 License
 
 This project is licensed under the [MIT License](LICENSE).
